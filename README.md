@@ -1,3 +1,8 @@
+# The star rating component API, you can pass various properties to make it your component.
+<img width="892" alt="image" src="https://github.com/user-attachments/assets/b9643330-e2ff-429d-bf04-be0380fd7e34">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
